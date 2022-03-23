@@ -2,7 +2,6 @@
 
 [![GitHub kartikpatel0170](https://img.shields.io/github/followers/kartikpatel0170?label=follow&style=social)](https://github.com/kartikpatel0170)
 [![Linkedin: Khushboo Verma](https://img.shields.io/badge/-Kartik%20Patel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kartikpatel0170/)](https://www.linkedin.com/in/kartikpatel0170/)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=kartikpatel0170&left_color=gray&right_color=blue)
 [![Twitter: Kartik Patel](https://img.shields.io/twitter/follow/kartikpatel0170?style=social)](https://twitter.com/kartikpatel0170)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=kartikpatel0170&left_color=gray&right_color=blue)
 [![Instagram Badge](https://img.shields.io/badge/-@kartikpatel0170-black?style=flat-square&labelColor=000000&logo=Instagram&link=https://instagram.com/@kartikpatel0170)](https://instagram.com/@kartikpatel0170)
@@ -12,6 +11,7 @@ I develop software, build technical communities, create content and love meeting
 
 
 [![Kartik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartikpatel0170&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/kartikpatel0170/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikpatel0170&layout=compact&theme=calm)](https://github.com/kartikpatel0170/github-readme-stats)
 
 
